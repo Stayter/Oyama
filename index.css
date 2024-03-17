@@ -1,0 +1,66 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 400px;  
+    background: lightcoral;                                         
+}
+.class{
+    border-radius: 50%;
+}
+.header{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#old{
+    margin-top: 20px;
+}
+#birthday{
+    margin-top: 0;
+}
+.Mass{
+    width: 200px;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+
+.gift{
+    background-image: url("images/ashihara.jpg");
+    background-size: cover;
+    width: 400px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+#hitbull-gif:hover {
+    background-image: url("images/hitbull.gif");
+    background-size: cover;
+}
+
+#hover{
+    margin: 0;
+}
+#hitbull{
+    margin: 0px;
+}
+
+div{
+    margin: auto;
+}
+#karate:hover{
+    background-image: url("images/karate.gif");
+    background-size: cover;
+    
+}
+
+.sekcija{
+    margin: 80px;
+}
+
+#upercut:hover{
+    background-image: url("images/uppercut.gif");
+}
+#block:hover{
+    background-image: url("images/block.gif");
+}
